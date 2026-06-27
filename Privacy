@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VideoUploader - Privacy Policy</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto; padding: 0 20px; color: #333; }
+        h1 { color: #111; }
+        h2 { color: #444; margin-top: 30px; }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <p><strong>Last updated: June 26, 2026</strong></p>
+
+    <h2>1. Introduction</h2>
+    <p>VideoUploader ("the App") is a personal automation tool for uploading videos to social media platforms. This Privacy Policy explains how we handle your information.</p>
+
+    <h2>2. Information We Access</h2>
+    <p>VideoUploader accesses the following information from your TikTok account:</p>
+    <ul>
+        <li>Permission to post videos on your behalf</li>
+        <li>Basic account information required for authentication</li>
+    </ul>
+
+    <h2>3. How We Use Your Information</h2>
+    <p>The information accessed is used solely to:</p>
+    <ul>
+        <li>Authenticate your TikTok account</li>
+        <li>Post videos to your TikTok profile on your behalf</li>
+    </ul>
+
+    <h2>4. Data Storage</h2>
+    <p>VideoUploader does not store any personal data, TikTok credentials, or account information on external servers. All authentication tokens are stored locally on your device.</p>
+
+    <h2>5. Data Sharing</h2>
+    <p>We do not share, sell, or transfer any of your personal information or TikTok account data to third parties.</p>
+
+    <h2>6. Security</h2>
+    <p>We take reasonable measures to protect your information. However, no method of transmission over the internet is 100% secure.</p>
+
+    <h2>7. Your Rights</h2>
+    <p>You can revoke VideoUploader's access to your TikTok account at any time through TikTok's app settings.</p>
+
+    <h2>8. Contact</h2>
+    <p>For privacy-related questions, contact: alfredo.carrillo.ramirez.127@gmail.com</p>
+</body>
+</html>

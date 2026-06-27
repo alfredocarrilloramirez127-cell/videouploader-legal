@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VideoUploader - Terms of Service</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto; padding: 0 20px; color: #333; }
+        h1 { color: #111; }
+        h2 { color: #444; margin-top: 30px; }
+    </style>
+</head>
+<body>
+    <h1>Terms of Service</h1>
+    <p><strong>Last updated: June 26, 2026</strong></p>
+
+    <h2>1. Acceptance of Terms</h2>
+    <p>By using VideoUploader ("the App"), you agree to these Terms of Service. This app is a personal tool designed to automate video uploads to social media platforms including TikTok.</p>
+
+    <h2>2. Use of the App</h2>
+    <p>VideoUploader is intended for personal use only. You agree to use this app only to upload content that you own or have the right to publish. You agree to comply with TikTok's Terms of Service and Community Guidelines when using this app.</p>
+
+    <h2>3. Content Responsibility</h2>
+    <p>You are solely responsible for the content you upload through this app. The app owner is not responsible for any content posted through VideoUploader.</p>
+
+    <h2>4. Data Usage</h2>
+    <p>VideoUploader accesses your TikTok account solely to post videos on your behalf. No personal data is stored or shared with third parties.</p>
+
+    <h2>5. Limitation of Liability</h2>
+    <p>VideoUploader is provided "as is" without any warranties. The app owner is not liable for any damages arising from the use of this app.</p>
+
+    <h2>6. Changes to Terms</h2>
+    <p>These terms may be updated at any time. Continued use of the app constitutes acceptance of the new terms.</p>
+
+    <h2>7. Contact</h2>
+    <p>For questions about these terms, contact: alfredo.carrillo.ramirez.127@gmail.com</p>
+</body>
+</html>
